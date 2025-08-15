@@ -57,7 +57,7 @@ Immersive 3D/VR product showcase using **A-Frame, Three.js, React-Aframe**.
 ---
 
 ## 📫 Connect With Me
-- **Portfolio/Website:** [quantictech.ai](https://quantictech.ai)
+- **Portfolio/Website:** [Deep Kumar Portfolio](https://deepkumar-portfolio.netlify.app/)
 - **LinkedIn:** [Deep Kumar V](https://linkedin.com/in/deep-kumar-v/)
 - **Email:** deepupoovai@gmail.com
 
